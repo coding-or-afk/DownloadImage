@@ -1,0 +1,10 @@
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\bin\Release\sdwByteToImage.exe.config
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\bin\Release\sdwByteToImage.exe
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\bin\Release\sdwByteToImage.pdb
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.csprojAssemblyReference.cache
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.Form1.resources
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.Properties.Resources.resources
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.csproj.GenerateResource.cache
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.csproj.CoreCompileInputs.cache
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.exe
+C:\Users\sdw\Desktop\Projects\SDW\sdwByteToImage\sdwByteToImage\obj\Release\sdwByteToImage.pdb
